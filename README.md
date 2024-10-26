@@ -47,10 +47,8 @@ python3 -m venv venv
 source venv/bin/activate
 
 # Instalar libreria
-pip install TextBlob
+pip3 install -r requirements.txt
 
-# Instalar 
-pip install googletrans
 ```
 
 ## 🚀 Uso
