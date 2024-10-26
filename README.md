@@ -37,7 +37,21 @@ cd Python_Sentiment_Analyzer
 # Instala las dependencias
 pip install -r requirements.txt
 ```
+Creacion entornos virtuales e instalacion de librerias
 
+```bash 
+# Crear entorno virtual con el nombre venv
+python3 -m venv venv
+
+# Activar entorno virtual
+source venv/bin/activate
+
+# Instalar libreria
+pip install TextBlob
+
+# Instalar 
+pip install googletrans
+```
 
 ## 🚀 Uso
 
